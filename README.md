@@ -1,6 +1,6 @@
-# hyochan express react starter
+# hyochan'S express react starter with webpack2
 
-HyoChan Express react starter
+Express react webpack2 starter
 
 npm install
 webpack -w

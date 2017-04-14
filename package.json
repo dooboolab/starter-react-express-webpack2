@@ -83,7 +83,6 @@
     "script-loader": "^0.7.0",
     "style-loader": "^0.13.0",
     "typescript": "^2.2.0-dev.20170109",
-    "webpack": "^2.3.3",
-    "wepback": "^1.0.0"
+    "webpack": "^2.3.3"
   }
 }
