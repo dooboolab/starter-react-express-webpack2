@@ -1,0 +1,19 @@
+@import "node_modules/bulma/bulma";
+@import "base/variables";
+
+// components
+@import "components/navigation";
+@import "components/page-title";
+@import "components/users";
+@import "components/remits";
+@import "components/login";
+@import "components/footer";
+
+
+input[type=search] {
+  box-shadow: none;
+}
+
+.btn {
+  cursor: pointer
+}
