@@ -18,7 +18,7 @@ const config = {
         host : 'localhost',
         user : 'hyochan',
         port : '3306',
-        password : 'tltlqlql87!',
+        password : 'your_password',
         db : 'swpswp',
         multipleStatements : true
     }
@@ -27,7 +27,7 @@ const config = {
         host : 'hyochan.org',
         user : 'hyochan',
         port : '3306',
-        password : 'tltlqlql87!',
+        password : 'your_password',
         db : 'swipeswap',
         multipleStatements : true
     }
